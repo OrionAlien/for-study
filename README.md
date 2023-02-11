@@ -1,8 +1,6 @@
 hellow world
-git add readme
-this is a text for ignore
 
-我在这里写会冲突吗?
+我删除了一些，留下了一些，是故意的
 2023/2/11 16:46
 
 封存内容2222
